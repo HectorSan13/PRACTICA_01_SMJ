@@ -10,9 +10,9 @@ Además, hay que abrir el **inspeccionar** de Chrome para poder ver la salida de
 console.log("Resta:", res);
 
 Miembros del Equipo
-Sofia Mercado
-Hector Sandoval
-Adan Juarez
+Sofia Mercado Moreno
+Hector Alfonso Sandoval Bautista
+Adan Juarez Jr
 
 ---
 
